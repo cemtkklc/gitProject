@@ -5,3 +5,4 @@ This is channel file which will push onto repo
 ** FirstBranched file
 
 ***On master branch
+*****FirstBranch will not commit changes after that will switch to the master branch
