@@ -1,3 +1,7 @@
 This is channel file which will push onto repo
 
 * Now this folder will be commited and pushed onto remote repo
+
+** FirstBranched file
+
+***On master branch
